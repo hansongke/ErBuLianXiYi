@@ -30,7 +30,11 @@ asdfghjkldfghjkl
 
 >>>>>>> a8f2e951dab369628c0fd4c1a05b5cb6f4fcf294
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 09dbcce80edefc29fcbe61add7d38b9c5ee0aefc
+=======
+马上就要放假了，了解一下
+>>>>>>> 37a1df1cf0310e8d9ee99817913cb54f71c93320
 =======
 我是丹清，我老捣蛋了
 >>>>>>> df3f2017e5d959f4f7b078efe83f32f627af59de
