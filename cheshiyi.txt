@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zhi shi jian dan de che shi wen jian bu yao zai yi ni dong de 
 xin jia yi hang ????
 yan shen yao
@@ -8,3 +9,7 @@ No.7babababababa
 史康平第一次修改
 闫申垚第二次修改————————14:39
 asdfghjkldfghjkl
+=======
+我叫史康平，我清空了你们上传的信息。
+
+>>>>>>> a8f2e951dab369628c0fd4c1a05b5cb6f4fcf294
