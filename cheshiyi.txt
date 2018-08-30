@@ -50,7 +50,11 @@ da chao hui shi bian tai
 fhshjaf
 8888888888888888888888ysy
 No.7babababababa
+<<<<<<< HEAD
 >>>>>>> 3e1210d2c46cdafc9a05f6d3161f4c6368e9dedc
 
 
 +++
+=======
+史康平第一次修改
+>>>>>>> eb94ad2bb7556a1b1854ac7c62d0ceb188417d24
