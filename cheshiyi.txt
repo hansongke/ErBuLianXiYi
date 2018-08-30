@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-zhi shi jian dan de che shi wen jian bu yao zai yi ni dong de 
-xin jia yi hang ????
-yan shen yao
-我叫刘丹清，我执行了修改操作
-fhshjaf
-<<<<<<< HEAD
-<<<<<<< HEAD
-No.7babababababa8888888888888888888888ysy
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+No.7babababababa8888888888888
 No.7babababababa
 No.7babababababa
 =======
@@ -75,6 +75,6 @@ asddf
 =======
 达朝辉喜欢彭一搏
 达朝辉大傻x
-
-
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
+>>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
 >>>>>>> 5197a32a002a151fb6b12960dd43ebc2878b12db
